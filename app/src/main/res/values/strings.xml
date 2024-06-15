@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">app distance</string>
+    <string name="title_distance">Distância</string>
+    <string name="total_de_quilometros">Total de quilometros</string>
+    <string name="title_price">Preço</string>
+    <string name="autonomia">Autonomia</string>
+</resources>
